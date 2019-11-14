@@ -1,0 +1,17 @@
+{
+  "name": "full-stack-instagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amycardoso/full-stack-instagram.git",
+  "author": "amycardoso <alice.cardoso10@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}

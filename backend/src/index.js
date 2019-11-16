@@ -5,8 +5,8 @@ const cors = require('cors');
 
 const app = express();
 
-const server = require('http').Server(app);
-const io = require('socket.io')(server);
+var server = require('http').createServer(app)
+var io = require('socket.io')(server);
 
 mongoose.connect('mongodb+srv://semana:semana@cluster0-dvsvu.mongodb.net/test?retryWrites=true&w=majority', {
     useNewUrlParser: true,
@@ -24,4 +24,4 @@ app.use('/files', express.static(path.resolve(__dirname, '..', 'uploads', 'resiz
 
 app.use(require('./routes'));
 
-app.listen(3333);
+server.listen(3333);

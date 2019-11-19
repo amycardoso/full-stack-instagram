@@ -3,6 +3,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/amycardoso/full-stack-instagram)
 ![Codacy grade](https://img.shields.io/codacy/grade/adc4ff7f52af47ddaedc8fe578217e85)
 
+Full Stack Instagram clone with NodeJS, ReactJS and React Native. 
+
 ![Posts feed page](https://raw.githubusercontent.com/amycardoso/full-stack-instagram/master/prints/Feed.png)
 ![Page to make a new post](https://raw.githubusercontent.com/amycardoso/full-stack-instagram/master/prints/New.png)
 ## Technologies

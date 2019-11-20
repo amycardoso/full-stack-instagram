@@ -20,7 +20,6 @@ This project was developed at the [RocketSeat OmniStack Week 7](https://rocketse
 -  [Socket.io](https://socket.io/)
 -  [ReactJS](https://reactjs.org/)
 -  [React Router v4](https://github.com/ReactTraining/react-router)
--  [styled-components](https://www.styled-components.com/)
 -  [axios](https://github.com/axios/axios)
 -  [React Native](http://facebook.github.io/react-native/)
 -  [React Navigation](https://reactnavigation.org/)

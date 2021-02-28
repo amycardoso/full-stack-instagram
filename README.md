@@ -1,7 +1,6 @@
 # Full Stack Instagram
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/amycardoso/full-stack-instagram/blob/master/LICENSE)
 ![GitHub top language](https://img.shields.io/github/languages/top/amycardoso/full-stack-instagram)
-![Codacy grade](https://img.shields.io/codacy/grade/adc4ff7f52af47ddaedc8fe578217e85)
 
 Full Stack Instagram clone with NodeJS, ReactJS and React Native. 
 
